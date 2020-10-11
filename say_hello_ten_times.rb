@@ -1,5 +1,3 @@
-def say_hello (name)
-  puts "Hello #{name} how are you?"
+def greetings
+  puts "Hello World!"
 end
-
-say_hello("Walter")
